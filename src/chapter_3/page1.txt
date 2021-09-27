@@ -1,0 +1,2 @@
+why String is immutable ? because String object are cached in the String pool
+-------------------------
