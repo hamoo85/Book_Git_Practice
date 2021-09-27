@@ -1,0 +1,7 @@
+what is git --> basically is version control system. Help keep track of files(changing, updating, editing)
+
+what is GitHub ---> is platform that host git repositories
+
+what is local repositories ---> basically in your computer  the folder that keeping track of changing
+
+what is remote repositories ---> the folder on any platforms , we use GitHub
