@@ -1,0 +1,16 @@
+this is the first page of chapter 1
+
+this your book
+
+HELLO MOHAMMED
+
+what is flow :
+ 1- great a new project
+ 2- great new package
+ 3- great new text file
+
+ is there any git yet? NO
+
+ _from the top menu find VCS(Version Control Integration)
+ _Enable VCS
+ _Select the GIT option from the pop-up window

@@ -1,0 +1,3 @@
+next step: great another file page2.txt
+
+and now have GIT enabled and ready to commit it
