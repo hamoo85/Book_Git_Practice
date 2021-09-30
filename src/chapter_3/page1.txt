@@ -1,2 +1,3 @@
 why String is immutable ? because String object are cached in the String pool
 -------------------------
+new text for this page, working for chapter3
